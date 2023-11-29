@@ -42,7 +42,4 @@ CSS: Used for styling the web pages and providing a visually appealing user inte
 Contributing
 Contributions to this project are welcome. If you have any suggestions, bug reports, or feature requests, please open an issue or submit a pull request.
 
-License
-This project is licensed under the MIT License.
 
-Feel free to customize this README file based on your specific project requirements.
